@@ -1,0 +1,88 @@
+* {
+
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-family: "Inter", sans-serif;
+
+}
+
+
+/* === nav bar on === */
+
+nav {
+
+    height: 98px;
+    width: auto;
+
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 23.5px 115.5px;
+
+}
+
+ul {
+
+    display: flex;
+
+    gap: 30px;
+
+}
+
+ul li {
+
+    list-style: none;
+
+}
+
+ul li a {
+
+    text-decoration: none;
+
+    font-size: 16px;
+    font-weight: 500;
+
+    color: #575757;
+
+}
+
+.btn {
+
+    width: 188px;
+    height: 48px;
+
+    padding: 12px;
+
+    font-size: 16px;
+    font-weight: 700;
+
+    background-color: #1D4ED8;
+    border: none;
+    border-radius: 10px;
+
+    cursor: pointer;
+
+    color: #FFFFFF;
+
+    transition: 0.5s;
+}
+
+.btn:hover {
+
+    box-shadow: 0 0 100px #1D4ED8;
+
+}
+
+/* === nav bar end === */
+
+/* === hero section === */
+
