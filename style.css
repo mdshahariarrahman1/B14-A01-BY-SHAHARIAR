@@ -86,3 +86,84 @@ ul li a {
 
 /* === hero section === */
 
+.hero {
+
+    background: 
+    linear-gradient(to right, #00000099 0%, #00000000 60%),
+    linear-gradient(225deg, #00000000 0%, #000000E0 88%),
+    url(./image/banner.jpg);
+
+    
+
+    height: 91vh;
+    width: auto;
+
+    
+
+    background-repeat: no-repeat;
+
+    background-size: cover;
+    background-position: center;
+
+}
+
+.hero_text {
+
+text-align: center;
+
+padding: 150px;
+
+}
+
+.hero_text h1 {
+
+    font-size: 80px;
+    font-weight: 700;
+
+    color: #FFFFFF;
+
+    
+    margin-bottom: 16px;
+
+}
+
+.hero_text p {
+
+    width: 829px;
+    margin: auto;
+
+
+    font-size: 22px;
+    font-weight: 400;
+
+    line-height: 28px;
+
+    color: #FFFFFF;
+
+    
+}
+
+.button2 {
+
+    text-align: center;
+
+    padding-top: 200px;
+
+}
+
+.bbtn {
+
+    width: 284px;
+    height: 74px;
+
+    padding: 12px;
+
+    font-size: 22px;
+    font-weight: 700;
+}
+
+/* === hero section end === */
+
+/* === page 1 on === */
+
+
