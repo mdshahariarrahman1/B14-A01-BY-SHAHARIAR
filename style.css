@@ -166,4 +166,101 @@ padding: 150px;
 
 /* === page 1 on === */
 
+.page1 {
 
+    max-width: 1440px;
+    height: 1279px;
+    margin: auto;
+
+    padding: 80px 60px;
+
+    
+}
+
+.page1_text h1 {
+
+    font-size: 56px;
+    font-weight: 700;
+
+    text-align: center;
+
+    color: #000102;
+
+    margin-bottom: 56px;
+
+}
+
+.page_one_card {
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 34px;
+}
+
+.card_one_pageone {
+
+    border: 1px solid #E5E7EB;
+
+    border-radius: 12px;
+
+}
+
+.page_one_card {
+
+
+}
+
+
+
+.page_one_card img {
+
+    border-radius: 12px;
+    margin-bottom: 24px;
+}
+
+.page_one_card .pp {
+
+    font-size: 12px;
+
+    font-weight: 600;
+
+    letter-spacing: 0.3px;
+
+    color: #2563EB;
+
+    padding: 0 24px;
+
+    margin-bottom: 8px;
+}
+
+.page_one_card h3 {
+
+    font-size: 20px;
+    font-weight: 700;
+
+    color: #0D1B2A;
+
+    padding: 0 24px;
+
+    margin-bottom: 8px;
+
+}
+
+.page_one_card p {
+
+    font-size: 14px;
+    font-weight: 400;
+
+    color: #575757;
+
+    padding: 0 24px;
+
+    margin-bottom: 24px;
+
+}
+
+
+/* === page 1 end === */
+
+/* === page 2 on === */
