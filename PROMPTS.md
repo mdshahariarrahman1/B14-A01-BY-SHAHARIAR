@@ -1,0 +1,3 @@
+My AI Prompt:
+
+Imagein I' am attending a program more then 4000 + web developer will present. now I create a professional website section for with: 1480px and height: 607px; for generate a relevant section with ai. so tell me what can i do or crating a image...
