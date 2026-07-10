@@ -508,7 +508,7 @@ padding: 150px;
     margin: 0 auto;
 
     margin-top: 30px;
-    margin-bottom: 80px;
+    margin-bottom: 125px;
 }
 
 .ai_development{
@@ -627,3 +627,90 @@ padding: 150px;
     box-shadow: 0 0 100px #2563EB;
 
 }
+
+
+/* === page 3 end === */
+
+/* === footer === */
+
+footer {
+
+    height: 145px;
+
+    width: 100%;
+
+    background-color: #0D1B2A;
+
+    padding: 56px 60px 32px 60px;
+
+    gap: 20px;
+
+}
+
+hr {
+
+    border: none;
+
+    height: 1px;
+
+    background-color: #FFFFFF;
+
+}
+
+.footer_foo {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding: 0 100px;
+
+    margin-bottom: 12px;
+}
+
+.foote_text {
+
+    margin-top: 12px;
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+}
+
+.foote_text p {
+
+    font-size: 16px;
+
+    font-weight: 400;
+    line-height: 19.5px;
+
+    color: #FFFFFF66;
+
+}
+
+.foot_icon i{
+    
+    font-size: 28px;
+    font-weight: 900;
+
+    margin-right: 20px;
+
+    color: #FFFFFF;
+
+    cursor: pointer;
+
+    transition: 0.5s;
+
+}
+
+.foot_icon i:hover {
+
+    color: #2563EB;
+
+}
+
+
+/* === THE END === */
+
