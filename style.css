@@ -635,7 +635,7 @@ padding: 150px;
 
 footer {
 
-    height: 145px;
+    height: auto;
 
     width: 100%;
 
@@ -648,6 +648,8 @@ footer {
 }
 
 hr {
+
+    
 
     border: none;
 
@@ -680,6 +682,8 @@ hr {
 }
 
 .foote_text p {
+
+    margin-top: 10px;
 
     font-size: 16px;
 
